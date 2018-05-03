@@ -1,2 +1,2 @@
-# Law-Farm-Office
-PSD to HTML for a Law Farm Office.
+# Law-Firm-Office
+PSD to HTML for a Law Firm Office.
